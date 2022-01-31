@@ -1,4 +1,4 @@
-connection: "tmbi-310016"
+connection: "tmb-all"
 
 # include all the views
 include: "/views/**/*.view"
